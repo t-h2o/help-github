@@ -5,10 +5,15 @@ my help memory for use github
 
 ## How pull request
 
-### Fork my projet
+### prerequisites
+- have a github account
+- need to change a projet
+- unix terminal (mac os/linux)
+
+### Fork s projet
 
 - press the button "fork"
-It's will create a copy of the projets in your profil 
+It's will create a copy of the projet in your profil 
 
 ### copy the project in the current directory
 
