@@ -35,6 +35,12 @@ here there are... !
 
 ## verified a commit
 
+### check the ressource
+
+* [github](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
+* [generate the key](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)
+* [add the key in your account](https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-new-gpg-key-to-your-github-account)
+
 install
 [gpg](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)
 
