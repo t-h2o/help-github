@@ -35,7 +35,7 @@ here there are... !
 ## verified a commit
 
 install
-[gpg](https://en.wikipedia.org/wiki/GNU_Privacy_Guardhttps://en.wikipedia.org/wiki/GNU_Privacy_Guard)
+[gpg](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)
 
 if you use v.2.1.17 or greater
 
@@ -45,5 +45,5 @@ generate the key
 else
 `gpg --default-new-key-algo rsa4096 --gen-key`
 
-user-id
+
 
