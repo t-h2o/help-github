@@ -32,3 +32,18 @@ It's will create a copy of the projet in your profil
 In your repo there is a button for pull request...
 here there are... !
 
+## verified a commit
+
+install
+[gpg](https://en.wikipedia.org/wiki/GNU_Privacy_Guardhttps://en.wikipedia.org/wiki/GNU_Privacy_Guard)
+
+if you use v.2.1.17 or greater
+
+generate the key
+`gpg --full-generate-key`
+
+else
+`gpg --default-new-key-algo rsa4096 --gen-key`
+
+user-id
+
