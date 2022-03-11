@@ -46,4 +46,4 @@ else
 `gpg --default-new-key-algo rsa4096 --gen-key`
 
 
-
+`git commit -S -m "message"`
